@@ -1,0 +1,6 @@
+>>> Warning 203 "C:\Program Files (x86)\PICC\drivers\pic18_usb.h" Line 523(1,1): Condition always TRUE
+>>> Warning 216 "SERVO_CONTROLLER_HID.c" Line 377(2,3): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "SERVO_CONTROLLER_HID.c" Line 377(2,3): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
+>>> Warning 216 "SERVO_CONTROLLER_HID.c" Line 377(2,3): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+      Memory usage:   ROM=15%      RAM=59% - 61%
+      0 Errors,  4 Warnings.
